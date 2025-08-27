@@ -1,0 +1,10 @@
+<svg viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f46e5" /> <!-- indigo-600 -->
+      <stop offset="100%" stop-color="#9333ea" /> <!-- purple-600 -->
+    </linearGradient>
+  </defs>
+  
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="url(#text-gradient)">AfriHR</text>
+</svg>
